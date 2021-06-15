@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589251723050",
+    "project_id": "reg-we-09",
+    "storage_bucket": "reg-we-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589251723050:android:7227a68fe59e485734e853",
+        "android_client_info": {
+          "package_name": "com.example.scrumproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589251723050-kbjvsi9c3bpqq3qou7ttqnu9njdachn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuAPOTLNkIY1ICNx8O1bZepQskHT-p7SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589251723050-kbjvsi9c3bpqq3qou7ttqnu9njdachn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
